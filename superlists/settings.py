@@ -25,7 +25,7 @@ SECRET_KEY = '&eglma+!qf@um1-xq6sx%p**&4a4tjy9&7()i46ko^50b+v==^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['superlists-staging.appcontraption.com']
 
 
 # Application definition
