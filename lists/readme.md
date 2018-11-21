@@ -10,4 +10,4 @@
 - <deL>Add unique URLs for each list
 - <del>Add a URL for creating a new list via POST
 - <del>Add URLs for adding a new item to an existing list via POST
-- Refactor away some duplication in urls.py
+- <del>Refactor away some duplication in urls.py
