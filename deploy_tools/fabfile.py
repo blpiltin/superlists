@@ -13,6 +13,7 @@ def deploy():
         _create_or_update_dotenv()
         _update_static_files()
         _update_database()
+        #_execute_create_service()
 
 def _get_latest_source():
     if exists('.git'):  
@@ -42,3 +43,6 @@ def _update_static_files():
 
 def _update_database():
     run('./virtualenv/bin/python manage.py migrate --noinput')
+
+def _execute_create_service():
+    pass
