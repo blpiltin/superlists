@@ -13,3 +13,4 @@
 - <del>Refactor away some duplication in urls.py
 - Remove hardcoded URLs from views.py
 - Remove hardcoded URLs from forms in list.html and home.html
+- Remove duplication of validation logic in views
