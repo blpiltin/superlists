@@ -11,6 +11,6 @@
 - <del>Add a URL for creating a new list via POST
 - <del>Add URLs for adding a new item to an existing list via POST
 - <del>Refactor away some duplication in urls.py
-- Remove hardcoded URLs from views.py
-- Remove hardcoded URLs from forms in list.html and home.html
+- <del>Remove hardcoded URLs from views.py
+- <del>Remove hardcoded URLs from forms in list.html and home.html
 - Remove duplication of validation logic in views
